@@ -1,0 +1,36 @@
+# Core ML
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning
+tensorflow>=2.10,<2.16
+
+# MLOps
+mlflow
+dvc
+dvc-http
+dvc-task
+
+# Utilities
+PyYAML
+tqdm
+joblib
+gdown
+ensure
+types-PyYAML
+
+# API
+Flask
+Flask-Cors
+fastapi
+
+# Notebooks
+notebook
+jupyterlab
+
+# Local package
+-e .
