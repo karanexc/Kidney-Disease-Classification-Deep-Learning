@@ -22,6 +22,7 @@ joblib
 gdown
 ensure
 types-PyYAML
+python-box
 
 # API
 Flask
